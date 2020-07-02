@@ -1,0 +1,337 @@
+2020-06-19 15:26:29,405 — [scraper.py:24 -             <module>()] — DEBUG — Starting scraper
+2020-06-19 15:27:08,477 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 0 of 10
+2020-06-19 15:27:08,478 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="9444731a5aff61ece35eb0da86daf4ce", element="08e37d5c-ec7e-4b02-9aa9-fb7bbc897b65")>
+2020-06-19 15:27:09,087 — [scraper.py:125 -            scrap_pag()] — DEBUG — location not found Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[@class='fcg']/a"}
+  (Session info: chrome=83.0.4103.106)
+
+2020-06-19 15:27:09,089 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 1 of 10
+2020-06-19 15:27:09,092 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="9444731a5aff61ece35eb0da86daf4ce", element="3e8cce08-5bf3-4218-a0f3-ffcb542f3268")>
+2020-06-19 15:27:09,650 — [scraper.py:125 -            scrap_pag()] — DEBUG — location not found Message: no such element: Unable to locate element: {"method":"css selector","selector":"._1dwg._1w_m._q7o"}
+  (Session info: chrome=83.0.4103.106)
+
+2020-06-19 15:27:09,653 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 2 of 10
+2020-06-19 15:27:09,655 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="9444731a5aff61ece35eb0da86daf4ce", element="f6aa76e0-c964-46a7-a086-7b52875126a1")>
+2020-06-19 15:27:10,225 — [scraper.py:125 -            scrap_pag()] — DEBUG — location not found Message: no such element: Unable to locate element: {"method":"css selector","selector":"._1dwg._1w_m._q7o"}
+  (Session info: chrome=83.0.4103.106)
+
+2020-06-19 15:27:10,230 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 3 of 10
+2020-06-19 15:27:10,234 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="9444731a5aff61ece35eb0da86daf4ce", element="e4da0d39-46c7-4941-8420-a8e2c946a5ed")>
+2020-06-19 15:27:10,800 — [scraper.py:125 -            scrap_pag()] — DEBUG — location not found Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[@class='fcg']/a"}
+  (Session info: chrome=83.0.4103.106)
+
+2020-06-19 15:27:10,802 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 4 of 10
+2020-06-19 15:27:10,804 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="9444731a5aff61ece35eb0da86daf4ce", element="b57a092d-2e14-43e4-b2dd-aa3ec34103ae")>
+2020-06-19 15:27:11,414 — [scraper.py:125 -            scrap_pag()] — DEBUG — location not found Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[@class='fcg']/a"}
+  (Session info: chrome=83.0.4103.106)
+
+2020-06-19 15:27:11,417 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 5 of 10
+2020-06-19 15:27:11,421 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="9444731a5aff61ece35eb0da86daf4ce", element="43b12c1a-e01d-4168-9b7e-bf7a2d24e9c5")>
+2020-06-19 15:27:12,044 — [scraper.py:125 -            scrap_pag()] — DEBUG — location not found Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[@class='fcg']/a"}
+  (Session info: chrome=83.0.4103.106)
+
+2020-06-19 15:27:12,047 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 6 of 10
+2020-06-19 15:27:12,050 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="9444731a5aff61ece35eb0da86daf4ce", element="6762e5a9-166b-4f67-9891-31ce8f42342a")>
+2020-06-19 15:27:12,660 — [scraper.py:125 -            scrap_pag()] — DEBUG — location not found Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[@class='fcg']/a"}
+  (Session info: chrome=83.0.4103.106)
+
+2020-06-19 15:27:12,663 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 7 of 10
+2020-06-19 15:27:12,666 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="9444731a5aff61ece35eb0da86daf4ce", element="f1263576-29cb-4674-a2ec-d5f4b725b58a")>
+2020-06-19 15:27:13,313 — [utils.py:17 -  is_italian_location()] — DEBUG — Testing location Nā+Pali+Coast+State+Park+wikipedia
+2020-06-19 15:27:15,097 — [utils.py:23 -  is_italian_location()] — DEBUG — wikipedia page <Response [200]>
+2020-06-19 15:27:15,101 — [utils.py:34 -  is_italian_location()] — DEBUG — Location Nā+Pali+Coast+State+Park+wikipedia is italian? False
+2020-06-19 15:27:15,103 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 8 of 10
+2020-06-19 15:27:15,106 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="9444731a5aff61ece35eb0da86daf4ce", element="6c617fd0-1b17-4642-8b9d-7dce1c4b749f")>
+2020-06-19 15:27:15,721 — [scraper.py:125 -            scrap_pag()] — DEBUG — location not found Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[@class='fcg']/a"}
+  (Session info: chrome=83.0.4103.106)
+
+2020-06-19 15:27:15,725 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 9 of 10
+2020-06-19 15:27:15,726 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="9444731a5aff61ece35eb0da86daf4ce", element="83db4c0b-6588-452e-b3b5-68839b05dfdc")>
+2020-06-19 15:27:16,342 — [scraper.py:125 -            scrap_pag()] — DEBUG — location not found Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[@class='fcg']/a"}
+  (Session info: chrome=83.0.4103.106)
+
+2020-06-19 15:27:16,346 — [scraper.py:144 -            scrap_pag()] — DEBUG — [] inserting to db 
+2020-06-19 15:27:16,605 — [repository.py:19 -    get_db_connection()] — ERROR — Error while creating database connection
+2020-06-19 15:27:16,606 — [repository.py:96 - get_users_not_visited()] — ERROR — Error while retrieving users not visited: 'NoneType' object has no attribute 'cursor'
+2020-06-19 15:29:31,293 — [scraper.py:24 -             <module>()] — DEBUG — Starting scraper
+2020-06-19 15:30:00,791 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 0 of 10
+2020-06-19 15:30:00,792 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="9ddb933f3038ddc7f7de54d9d4fabbc3", element="dd105f1d-a769-471a-8617-b61da1eff9fe")>
+2020-06-19 15:30:01,530 — [scraper.py:125 -            scrap_pag()] — DEBUG — location not found Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[@class='fcg']/a"}
+  (Session info: chrome=83.0.4103.106)
+
+2020-06-19 15:30:01,531 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 1 of 10
+2020-06-19 15:30:01,533 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="9ddb933f3038ddc7f7de54d9d4fabbc3", element="e00d1038-6568-40c0-b09d-7c7515583204")>
+2020-06-19 15:30:02,160 — [scraper.py:125 -            scrap_pag()] — DEBUG — location not found Message: no such element: Unable to locate element: {"method":"css selector","selector":"._1dwg._1w_m._q7o"}
+  (Session info: chrome=83.0.4103.106)
+
+2020-06-19 15:30:02,166 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 2 of 10
+2020-06-19 15:30:02,172 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="9ddb933f3038ddc7f7de54d9d4fabbc3", element="a7d25e6f-4f58-4d56-9506-5cd6dc1ae915")>
+2020-06-19 15:30:02,809 — [scraper.py:125 -            scrap_pag()] — DEBUG — location not found Message: no such element: Unable to locate element: {"method":"css selector","selector":"._1dwg._1w_m._q7o"}
+  (Session info: chrome=83.0.4103.106)
+
+2020-06-19 15:30:02,814 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 3 of 10
+2020-06-19 15:30:02,817 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="9ddb933f3038ddc7f7de54d9d4fabbc3", element="610a4717-bb34-4665-bb66-317f12f23137")>
+2020-06-19 15:30:03,621 — [scraper.py:125 -            scrap_pag()] — DEBUG — location not found Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[@class='fcg']/a"}
+  (Session info: chrome=83.0.4103.106)
+
+2020-06-19 15:30:03,624 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 4 of 10
+2020-06-19 15:30:03,626 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="9ddb933f3038ddc7f7de54d9d4fabbc3", element="34724cfe-4c33-466e-a7e1-62bad0cf0b47")>
+2020-06-19 15:30:04,229 — [scraper.py:125 -            scrap_pag()] — DEBUG — location not found Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[@class='fcg']/a"}
+  (Session info: chrome=83.0.4103.106)
+
+2020-06-19 15:30:04,231 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 5 of 10
+2020-06-19 15:30:04,232 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="9ddb933f3038ddc7f7de54d9d4fabbc3", element="b47cabc7-e2d5-487e-916a-06a0edc8360a")>
+2020-06-19 15:30:04,984 — [scraper.py:125 -            scrap_pag()] — DEBUG — location not found Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[@class='fcg']/a"}
+  (Session info: chrome=83.0.4103.106)
+
+2020-06-19 15:30:04,987 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 6 of 10
+2020-06-19 15:30:04,990 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="9ddb933f3038ddc7f7de54d9d4fabbc3", element="2ab43383-0e4d-412e-a554-46f579a732ea")>
+2020-06-19 15:30:05,718 — [scraper.py:125 -            scrap_pag()] — DEBUG — location not found Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[@class='fcg']/a"}
+  (Session info: chrome=83.0.4103.106)
+
+2020-06-19 15:30:05,725 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 7 of 10
+2020-06-19 15:30:05,730 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="9ddb933f3038ddc7f7de54d9d4fabbc3", element="02446f4a-4b5a-40f6-ba91-37ff34ecfa3a")>
+2020-06-19 15:30:06,457 — [utils.py:17 -  is_italian_location()] — DEBUG — Testing location Nā+Pali+Coast+State+Park+wikipedia
+2020-06-19 15:30:09,130 — [utils.py:23 -  is_italian_location()] — DEBUG — wikipedia page <Response [200]>
+2020-06-19 15:30:09,137 — [utils.py:34 -  is_italian_location()] — DEBUG — Location Nā+Pali+Coast+State+Park+wikipedia is italian? False
+2020-06-19 15:30:09,145 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 8 of 10
+2020-06-19 15:30:09,152 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="9ddb933f3038ddc7f7de54d9d4fabbc3", element="3158d102-0336-4754-8c64-1193e1569155")>
+2020-06-19 15:30:09,877 — [scraper.py:125 -            scrap_pag()] — DEBUG — location not found Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[@class='fcg']/a"}
+  (Session info: chrome=83.0.4103.106)
+
+2020-06-19 15:30:09,879 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 9 of 10
+2020-06-19 15:30:09,881 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="9ddb933f3038ddc7f7de54d9d4fabbc3", element="206fc2a1-6c73-4604-994f-4051faa883d6")>
+2020-06-19 15:30:10,579 — [scraper.py:125 -            scrap_pag()] — DEBUG — location not found Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[@class='fcg']/a"}
+  (Session info: chrome=83.0.4103.106)
+
+2020-06-19 15:30:10,581 — [scraper.py:144 -            scrap_pag()] — DEBUG — [] inserting to db 
+2020-06-19 15:30:10,693 — [repository.py:19 -    get_db_connection()] — ERROR — Error while creating database connection
+2020-06-19 15:30:10,694 — [repository.py:96 - get_users_not_visited()] — ERROR — Error while retrieving users not visited: 'NoneType' object has no attribute 'cursor'
+2020-06-19 15:32:20,826 — [<string>:1 -             <module>()] — ERROR — Error while creating database connection
+2020-06-19 15:32:44,014 — [<string>:1 -             <module>()] — ERROR — Error while creating database connection {}
+2020-06-19 15:33:50,383 — [scraper.py:24 -             <module>()] — DEBUG — Starting scraper
+2020-06-19 15:34:19,196 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 0 of 10
+2020-06-19 15:34:19,198 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="b485f8b5269889f319c1c36265f4e080", element="f2b78de4-c073-40df-b261-44018e14260e")>
+2020-06-19 15:34:19,856 — [scraper.py:125 -            scrap_pag()] — DEBUG — location not found Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[@class='fcg']/a"}
+  (Session info: chrome=83.0.4103.106)
+
+2020-06-19 15:34:19,860 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 1 of 10
+2020-06-19 15:34:19,863 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="b485f8b5269889f319c1c36265f4e080", element="721e24b3-2294-49c4-87ef-aba7eeee6b36")>
+2020-06-19 15:34:20,491 — [scraper.py:125 -            scrap_pag()] — DEBUG — location not found Message: no such element: Unable to locate element: {"method":"css selector","selector":"._1dwg._1w_m._q7o"}
+  (Session info: chrome=83.0.4103.106)
+
+2020-06-19 15:34:20,495 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 2 of 10
+2020-06-19 15:34:20,498 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="b485f8b5269889f319c1c36265f4e080", element="92b47e11-1dba-4ac0-a202-154cf7d7249b")>
+2020-06-19 15:34:21,163 — [scraper.py:125 -            scrap_pag()] — DEBUG — location not found Message: no such element: Unable to locate element: {"method":"css selector","selector":"._1dwg._1w_m._q7o"}
+  (Session info: chrome=83.0.4103.106)
+
+2020-06-19 15:34:21,168 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 3 of 10
+2020-06-19 15:34:21,174 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="b485f8b5269889f319c1c36265f4e080", element="0783d5df-b2a6-49d1-bf0d-b59513fa8f54")>
+2020-06-19 15:34:21,872 — [scraper.py:125 -            scrap_pag()] — DEBUG — location not found Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[@class='fcg']/a"}
+  (Session info: chrome=83.0.4103.106)
+
+2020-06-19 15:34:21,874 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 4 of 10
+2020-06-19 15:34:21,878 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="b485f8b5269889f319c1c36265f4e080", element="52c6d091-a518-4a27-a0fd-f5a965a7271b")>
+2020-06-19 15:34:22,531 — [scraper.py:125 -            scrap_pag()] — DEBUG — location not found Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[@class='fcg']/a"}
+  (Session info: chrome=83.0.4103.106)
+
+2020-06-19 15:34:22,534 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 5 of 10
+2020-06-19 15:34:22,536 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="b485f8b5269889f319c1c36265f4e080", element="2636460f-27c8-4a02-8d1c-be0d8616ef6c")>
+2020-06-19 15:34:23,227 — [scraper.py:125 -            scrap_pag()] — DEBUG — location not found Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[@class='fcg']/a"}
+  (Session info: chrome=83.0.4103.106)
+
+2020-06-19 15:34:23,237 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 6 of 10
+2020-06-19 15:34:23,244 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="b485f8b5269889f319c1c36265f4e080", element="7c9a3ffb-0191-4791-bb08-0319834c5227")>
+2020-06-19 15:34:23,961 — [scraper.py:125 -            scrap_pag()] — DEBUG — location not found Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[@class='fcg']/a"}
+  (Session info: chrome=83.0.4103.106)
+
+2020-06-19 15:34:23,968 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 7 of 10
+2020-06-19 15:34:23,972 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="b485f8b5269889f319c1c36265f4e080", element="7f5c7216-8271-4b3f-8978-df884d5b5176")>
+2020-06-19 15:34:24,567 — [utils.py:17 -  is_italian_location()] — DEBUG — Testing location Nā+Pali+Coast+State+Park+wikipedia
+2020-06-19 15:34:26,297 — [utils.py:23 -  is_italian_location()] — DEBUG — wikipedia page <Response [200]>
+2020-06-19 15:34:26,309 — [utils.py:34 -  is_italian_location()] — DEBUG — Location Nā+Pali+Coast+State+Park+wikipedia is italian? False
+2020-06-19 15:34:26,327 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 8 of 10
+2020-06-19 15:34:26,340 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="b485f8b5269889f319c1c36265f4e080", element="253150ad-52b3-4186-8b0f-40f5a6d686bf")>
+2020-06-19 15:34:27,096 — [scraper.py:125 -            scrap_pag()] — DEBUG — location not found Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[@class='fcg']/a"}
+  (Session info: chrome=83.0.4103.106)
+
+2020-06-19 15:34:27,101 — [scraper.py:110 -            scrap_pag()] — DEBUG — post 9 of 10
+2020-06-19 15:34:27,105 — [scraper.py:111 -            scrap_pag()] — DEBUG — scraping <selenium.webdriver.remote.webelement.WebElement (session="b485f8b5269889f319c1c36265f4e080", element="14080311-8243-46fd-8bc6-16e20d621ce5")>
+2020-06-19 15:34:27,823 — [scraper.py:125 -            scrap_pag()] — DEBUG — location not found Message: no such element: Unable to locate element: {"method":"xpath","selector":".//span[@class='fcg']/a"}
+  (Session info: chrome=83.0.4103.106)
+
+2020-06-19 15:34:27,830 — [scraper.py:144 -            scrap_pag()] — DEBUG — [] inserting to db 
+2020-06-19 15:35:11,120 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:35:11,344 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User fragalby returning associated id 
+2020-06-19 15:36:52,368 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:36:52,643 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User giulia.arci.7 returning associated id 
+2020-06-19 15:36:52,680 — [repository.py:263 -          insert_city()] — DEBUG — City Roma inserted correctly, returning associated id 81
+2020-06-19 15:37:30,481 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:37:30,712 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User niccolo.giordano.5 returning associated id 
+2020-06-19 15:37:30,759 — [repository.py:384 -           insert_job()] — DEBUG — job inserted correctly
+2020-06-19 15:38:08,013 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:38:08,230 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User saretta.sopranzetti returning associated id 
+2020-06-19 15:38:08,241 — [repository.py:263 -          insert_city()] — DEBUG — City Loreto inserted correctly, returning associated id 82
+2020-06-19 15:38:36,605 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:38:36,819 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User franzinidavide returning associated id 
+2020-06-19 15:39:13,887 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:39:14,124 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User lucia.casazza.7 returning associated id 
+2020-06-19 15:39:14,133 — [repository.py:263 -          insert_city()] — DEBUG — City Genova inserted correctly, returning associated id 83
+2020-06-19 15:39:52,408 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:39:52,630 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User bouvier.brigitte returning associated id 
+2020-06-19 15:39:52,639 — [repository.py:263 -          insert_city()] — DEBUG — City Napoli inserted correctly, returning associated id 84
+2020-06-19 15:40:31,727 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:40:31,951 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User annalisafrancesco.belmourida returning associated id 
+2020-06-19 15:40:31,960 — [repository.py:263 -          insert_city()] — DEBUG — City Mirabella Eclano inserted correctly, returning associated id 85
+2020-06-19 15:40:31,969 — [repository.py:384 -           insert_job()] — DEBUG — job inserted correctly
+2020-06-19 15:41:09,725 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:41:09,957 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User silvia.zanderin returning associated id 
+2020-06-19 15:41:47,532 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:41:47,715 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User rossi.valerio.1 returning associated id 
+2020-06-19 15:42:25,912 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:42:26,069 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User francesca.vastarella returning associated id 
+2020-06-19 15:42:26,076 — [repository.py:263 -          insert_city()] — DEBUG — City Milano inserted correctly, returning associated id 86
+2020-06-19 15:43:04,729 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:43:04,964 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User luca.mancuso.564 returning associated id 
+2020-06-19 15:43:44,388 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:43:44,616 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User pace.alberto returning associated id 
+2020-06-19 15:43:44,626 — [repository.py:263 -          insert_city()] — DEBUG — City Arzignano inserted correctly, returning associated id 87
+2020-06-19 15:44:23,609 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:44:23,843 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User deborah.giotta returning associated id 
+2020-06-19 15:44:23,853 — [repository.py:263 -          insert_city()] — DEBUG — City Putignano inserted correctly, returning associated id 88
+2020-06-19 15:45:00,087 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:45:00,327 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User emavvf returning associated id 
+2020-06-19 15:45:00,339 — [repository.py:263 -          insert_city()] — DEBUG — City Bergamo inserted correctly, returning associated id 89
+2020-06-19 15:45:39,105 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:45:39,236 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User andrea.cirillo.90 returning associated id 
+2020-06-19 15:45:39,240 — [repository.py:76 - insert_personal_data()] — ERROR — Error while inserting personal data error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', idCurrentCity = NULL WHERE idUser = 48' at line 1
+2020-06-19 15:46:18,230 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:46:18,426 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User mary.gualemi returning associated id 
+2020-06-19 15:46:46,314 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:46:46,530 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User angela.lastregaccia returning associated id 
+2020-06-19 15:47:24,526 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:47:24,702 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User alessandra.giordano.39545 returning associated id 
+2020-06-19 15:47:24,707 — [repository.py:76 - insert_personal_data()] — ERROR — Error while inserting personal data error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', idCurrentCity = NULL WHERE idUser = 52' at line 1
+2020-06-19 15:47:44,010 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:47:44,244 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User tommaso.berardi.7374 returning associated id 
+2020-06-19 15:47:44,259 — [repository.py:263 -          insert_city()] — DEBUG — City  inserted correctly, returning associated id 90
+2020-06-19 15:48:21,910 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:48:22,105 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User aristide.crisci returning associated id 
+2020-06-19 15:49:01,291 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:49:01,431 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User daniel.rotaru returning associated id 
+2020-06-19 15:49:40,708 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:49:40,921 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User andrea.signorello returning associated id 
+2020-06-19 15:49:40,929 — [repository.py:263 -          insert_city()] — DEBUG — City Friburgo in Brisgovia inserted correctly, returning associated id 91
+2020-06-19 15:50:19,700 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:50:19,922 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User stefano.fulgoni returning associated id 
+2020-06-19 15:53:29,415 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:53:29,616 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User danpatricelli returning associated id 
+2020-06-19 15:53:29,623 — [repository.py:263 -          insert_city()] — DEBUG — City Ortona inserted correctly, returning associated id 92
+2020-06-19 15:54:08,350 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:54:08,652 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User gigli.mattia returning associated id 
+2020-06-19 15:54:08,659 — [repository.py:263 -          insert_city()] — DEBUG — City Cingoli inserted correctly, returning associated id 93
+2020-06-19 15:54:08,666 — [repository.py:384 -           insert_job()] — DEBUG — job inserted correctly
+2020-06-19 15:54:47,098 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:54:47,339 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User claudio.marchitelli.71 returning associated id 
+2020-06-19 15:54:47,346 — [repository.py:263 -          insert_city()] — DEBUG — City Putignano inserted correctly, returning associated id 94
+2020-06-19 15:55:25,319 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:55:25,436 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User martina.ballaben.1 returning associated id 
+2020-06-19 15:55:25,443 — [repository.py:263 -          insert_city()] — DEBUG — City Gorizia inserted correctly, returning associated id 95
+2020-06-19 15:55:25,447 — [repository.py:76 - insert_personal_data()] — ERROR — Error while inserting personal data error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', idCurrentCity = 95 WHERE idUser = 77' at line 1
+2020-06-19 15:57:15,782 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:57:16,026 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User davide.vigano.14 returning associated id 
+2020-06-19 15:57:16,031 — [repository.py:263 -          insert_city()] — DEBUG — City  inserted correctly, returning associated id 96
+2020-06-19 15:57:54,905 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:57:55,150 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User mattew.portal.5 returning associated id 
+2020-06-19 15:57:55,157 — [repository.py:263 -          insert_city()] — DEBUG — City Lecce inserted correctly, returning associated id 97
+2020-06-19 15:58:32,800 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:58:33,032 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User veruschka.righini returning associated id 
+2020-06-19 15:58:33,040 — [repository.py:263 -          insert_city()] — DEBUG — City Verona inserted correctly, returning associated id 98
+2020-06-19 15:58:33,049 — [repository.py:384 -           insert_job()] — DEBUG — job inserted correctly
+2020-06-19 15:59:13,016 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:59:13,308 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User bea.mt.37 returning associated id 
+2020-06-19 15:59:52,661 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 15:59:52,948 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User domenico.bettinali returning associated id 
+2020-06-19 15:59:52,958 — [repository.py:263 -          insert_city()] — DEBUG — City Francoforte sul Meno inserted correctly, returning associated id 99
+2020-06-19 16:00:31,405 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 16:00:31,582 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User marialuisa.cortinovis.9 returning associated id 
+2020-06-19 16:00:31,589 — [repository.py:263 -          insert_city()] — DEBUG — City Bergamo inserted correctly, returning associated id 100
+2020-06-19 16:00:31,599 — [repository.py:384 -           insert_job()] — DEBUG — job inserted correctly
+2020-06-19 16:01:09,855 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 16:01:10,060 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User ilario.costantino returning associated id 
+2020-06-19 16:01:20,303 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 16:01:20,533 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User puch93 returning associated id 
+2020-06-19 16:01:20,542 — [repository.py:263 -          insert_city()] — DEBUG — City  inserted correctly, returning associated id 101
+2020-06-19 16:01:20,546 — [repository.py:76 - insert_personal_data()] — ERROR — Error while inserting personal data error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', idCurrentCity = 101 WHERE idUser = 89' at line 1
+2020-06-19 16:02:00,960 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 16:02:01,189 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User marco.marcolino.1088 returning associated id 
+2020-06-19 16:02:01,198 — [repository.py:263 -          insert_city()] — DEBUG — City Los Angeles inserted correctly, returning associated id 102
+2020-06-19 16:02:01,203 — [repository.py:76 - insert_personal_data()] — ERROR — Error while inserting personal data error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', idCurrentCity = 102 WHERE idUser = 90' at line 1
+2020-06-19 16:02:40,364 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 16:02:40,579 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User monica.pisoni returning associated id 
+2020-06-19 16:02:40,588 — [repository.py:263 -          insert_city()] — DEBUG — City Asti inserted correctly, returning associated id 103
+2020-06-19 16:03:18,479 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 16:03:18,617 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User m.rosariarussi returning associated id 
+2020-06-19 16:03:18,620 — [repository.py:76 - insert_personal_data()] — ERROR — Error while inserting personal data error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', idCurrentCity = NULL WHERE idUser = 92' at line 1
+2020-06-19 16:03:57,859 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 16:03:58,067 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User giuseppe.batori returning associated id 
+2020-06-19 16:03:58,074 — [repository.py:263 -          insert_city()] — DEBUG — City Perugia inserted correctly, returning associated id 104
+2020-06-19 16:04:35,863 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 16:04:36,071 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User laurannese returning associated id 
+2020-06-19 16:04:36,081 — [repository.py:263 -          insert_city()] — DEBUG — City Taipei inserted correctly, returning associated id 105
+2020-06-19 16:04:55,756 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 16:04:55,951 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User odoardo.laboccetta returning associated id 
+2020-06-19 16:04:55,957 — [repository.py:263 -          insert_city()] — DEBUG — City  inserted correctly, returning associated id 106
+2020-06-19 16:05:34,832 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 16:05:35,062 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User alice.tonelli.7 returning associated id 
+2020-06-19 16:06:12,976 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 16:06:13,191 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User simone.palmieri.10441 returning associated id 
+2020-06-19 16:06:51,012 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 16:06:51,220 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User longhi.giacomo returning associated id 
+2020-06-19 16:06:51,227 — [repository.py:263 -          insert_city()] — DEBUG — City Lozzo Atestino inserted correctly, returning associated id 107
+2020-06-19 16:06:51,229 — [repository.py:76 - insert_personal_data()] — ERROR — Error while inserting personal data error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', idCurrentCity = 107 WHERE idUser = 98' at line 1
+2020-06-19 16:07:30,039 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 16:07:30,250 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User giuseppe.tringolo returning associated id 
+2020-06-19 16:07:30,256 — [repository.py:76 - insert_personal_data()] — ERROR — Error while inserting personal data error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', idCurrentCity = NULL WHERE idUser = 99' at line 1
+2020-06-19 16:08:07,332 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 16:08:07,546 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User marica.vucci returning associated id 
+2020-06-19 16:08:07,553 — [repository.py:263 -          insert_city()] — DEBUG — City Foglizzo inserted correctly, returning associated id 108
+2020-06-19 16:08:46,922 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 16:08:47,143 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User adanigiulia returning associated id 
+2020-06-19 16:08:47,153 — [repository.py:263 -          insert_city()] — DEBUG — City Roma inserted correctly, returning associated id 109
+2020-06-19 16:09:15,332 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 16:09:15,508 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User andrea.agrifoglio returning associated id 
+2020-06-19 16:09:53,743 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 16:09:53,985 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User roberta.dimauro.1401 returning associated id 
+2020-06-19 16:09:53,993 — [repository.py:263 -          insert_city()] — DEBUG — City Trezzano sul Naviglio inserted correctly, returning associated id 110
+2020-06-19 16:09:54,001 — [repository.py:384 -           insert_job()] — DEBUG — job inserted correctly
+2020-06-19 16:10:31,628 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 16:10:31,848 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User federico.pagano.93 returning associated id 
+2020-06-19 16:11:09,763 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 16:11:10,006 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User fabio.grigoletto.75 returning associated id 
+2020-06-19 16:11:10,016 — [repository.py:263 -          insert_city()] — DEBUG — City Paderno Dugnano inserted correctly, returning associated id 111
+2020-06-19 16:11:48,507 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 16:11:48,694 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User mariana.vanta returning associated id 
+2020-06-19 16:11:48,707 — [repository.py:263 -          insert_city()] — DEBUG — City Cesenatico inserted correctly, returning associated id 112
+2020-06-19 16:12:26,959 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 16:12:27,198 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User marco.santinelli.986 returning associated id 
+2020-06-19 16:12:27,208 — [repository.py:384 -           insert_job()] — DEBUG — job inserted correctly
+2020-06-19 16:12:27,213 — [repository.py:384 -           insert_job()] — DEBUG — job inserted correctly
+2020-06-19 16:12:55,799 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 16:12:56,027 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User federico.bartolucci.92 returning associated id 
+2020-06-19 16:12:56,032 — [repository.py:76 - insert_personal_data()] — ERROR — Error while inserting personal data error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', idCurrentCity = NULL WHERE idUser = 108' at line 1
+2020-06-19 16:13:34,183 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 16:13:34,400 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User patrizia.triulzi.5 returning associated id 
+2020-06-19 16:13:34,409 — [repository.py:263 -          insert_city()] — DEBUG — City Sant Boi de Llobregat inserted correctly, returning associated id 113
+2020-06-19 16:14:12,442 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 16:14:12,647 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User maria.campisi.581 returning associated id 
+2020-06-19 16:14:50,698 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 16:14:50,934 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User pietro.ruocco.1069 returning associated id 
+2020-06-19 16:14:50,944 — [repository.py:263 -          insert_city()] — DEBUG — City Reggio nell Emilia inserted correctly, returning associated id 114
+2020-06-19 16:15:29,461 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 16:15:29,675 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User pitari.rosi returning associated id 
+2020-06-19 16:15:29,685 — [repository.py:263 -          insert_city()] — DEBUG — City Torino inserted correctly, returning associated id 115
+2020-06-19 16:15:58,953 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 16:15:59,178 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User rossano.spanu returning associated id 
+2020-06-19 16:15:59,187 — [repository.py:263 -          insert_city()] — DEBUG — City Arezzo inserted correctly, returning associated id 116
+2020-06-19 16:16:36,262 — [scraper.py:282 -          scrape_data()] — DEBUG — Insert post
+2020-06-19 16:16:36,459 — [repository.py:288 - get_user_id_from_link()] — DEBUG — User luca.rango.7 returning associated id 
