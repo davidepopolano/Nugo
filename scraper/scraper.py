@@ -24,10 +24,9 @@ from webdriver_manager.chrome import ChromeDriverManager
 constants.LOGGER.debug("Starting scraper")
 
 
-
+total_scrolls = 6
 scroll_time = 100
-post_da_scrap = 30
-total_scrolls = post_da_scrap
+post_da_scrap = 10;
 current_scrolls = 0
 old_height = 0
 
@@ -101,7 +100,7 @@ def scrap_pag():
     dati_post = []
     testo_pagine = {"postText": "", "comments": [], "location": ""}
     commenti_lista = []
-    contatore = 0
+    contatore = 0;
 
     for element in data:
         try:
@@ -126,11 +125,7 @@ def scrap_pag():
                 LOGGER.debug("location not found {}".format(e))
                 continue
 
-            try:
-                testo = element.find_elements_by_xpath(".//div[@data-testid='post_message']/p")[0].text
-            except Exception as e:
-                LOGGER.debug("Post has no text")
-
+            testo = element.find_elements_by_xpath(".//div[@data-testid='post_message']/p")[0].text
 
             LOGGER.debug("Retrieving comments")
             commenti = get_comments(element, tasto)
@@ -154,7 +149,7 @@ def scrap_pag():
         repository.insert_post(x)
 
 
-    #scrap_account_commenti()
+    scrap_account_commenti()
 
 def scrap_account_commenti():
     scrap = repository.get_users_not_visited()
@@ -458,12 +453,17 @@ def scrape():
         for url in urls:
             driver.get(url)
             print("url:" +url)
-            scrap_pag()
-
+            link_type = utils.identify_url(driver.current_url)
+            if link_type == 0:
+                scrap_profile()
+            elif link_type == 1:
+                scrap_pag()
+            elif link_type == -1:
+                #scrape_group(driver.current_url)
+                pass
         driver.close()
     else:
         print("Input file is empty.")
-
 
 
 # -------------------------------------------------------------

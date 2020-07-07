@@ -148,7 +148,7 @@ def insert_post(post):
 
         for comment in post["comments"]:
 
-            author = comment["author"].replace("'", " ")
+            author = comment["author"]
             text = comment["text"].replace("'", " ")
             link = comment["linkToProfile"]
 
@@ -400,3 +400,5 @@ def test_connection():
 
 if __name__ == "__main__":
     test_connection()
+
+
