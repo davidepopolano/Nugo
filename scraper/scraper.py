@@ -154,7 +154,7 @@ def scrap_pag():
         repository.insert_post(x)
 
 
-    #scrap_account_commenti()
+    scrap_account_commenti()
 
 def scrap_account_commenti():
     scrap = repository.get_users_not_visited()
