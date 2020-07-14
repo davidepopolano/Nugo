@@ -1,14 +1,9 @@
 import json
-import os
 import sys
-import urllib.request
-import yaml
 import scraper.utils as utils
-import argparse
 import constants
 import time
 import repository
-import string
 import re
 
 from selenium.webdriver.common.action_chains import ActionChains
@@ -16,13 +11,9 @@ from constants import LOGGER
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.ui import WebDriverWait
 from webdriver_manager.chrome import ChromeDriverManager
 
 constants.LOGGER.debug("Starting scraper")
-
-
 
 scroll_time = 100
 post_da_scrap = 30
@@ -98,7 +89,6 @@ def scrap_pag():
     data += driver.find_elements_by_xpath("//div[@class='_4-u2 _3xaf _3-95 _4-u8']")
     data += driver.find_elements_by_xpath("//div[@class='_4-u2 _4-u8']")
     dati_post = []
-    testo_pagine = {"postText": "", "comments": [], "location": ""}
     commenti_lista = []
     contatore = 0
 
@@ -186,7 +176,7 @@ def href_account(href):
     href_finale = href[Indice_1+1:Indice]
     return href_finale
 
-def scrape_data(url, scan_list, section, elements_path, save_status,href_account):
+def scrape_data(save_status,href_account):
     if len(href_account)>0:
         
         output = {"sex": "","cityName": "","contacts": [],"jobs": []}
@@ -342,12 +332,9 @@ def scrap_profile(href_account):
     print("\nScraping:", user_id)
     print("----------------------------------------")
     print("Scraping {}..".format("About"))
-    scan_list = [None] * 4
-    section = params["About"]["section"]
-    elements_path = params["About"]["elements_path"]
     save_status = params["About"]["save_status"]
     time.sleep(1)
-    scrape_data(user_id, scan_list, section, elements_path, save_status,href_account)
+    scrape_data(save_status,href_account)
 
     print("{} Done!".format("About"))
 
@@ -462,9 +449,3 @@ def scrape():
         driver.close()
     else:
         print("Input file is empty.")
-
-
-
-# -------------------------------------------------------------
-# -------------------------------------------------------------
-# -------------------------------------------------------------
