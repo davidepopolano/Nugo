@@ -5,7 +5,7 @@ configparser==5.0.0
 crayons==0.3.0
 idna==2.9
 mysql-connector-python==8.0.20
-protobuf==3.11.3
+protobuf==3.18.3
 PyYAML==5.3.1
 requests==2.23.0
 selenium==3.141.0
